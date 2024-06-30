@@ -108,4 +108,8 @@ Why adapter design pattern is simpler to understand without charger analogy | LL
 
 
 
+More coming
+
+
+
 
